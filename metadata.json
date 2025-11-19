@@ -1,0 +1,5 @@
+{
+  "name": "VibeShare",
+  "description": "A centralized platform for sharing Vibe Coding outputs, prompts, and deployment links within the organization.",
+  "requestFramePermissions": []
+}
